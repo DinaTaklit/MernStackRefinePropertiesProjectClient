@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/MernStackRefinePropertiesProjectClient/static/js/main.8d4f03be.js",
+    "static/js/787.44e022fc.chunk.js": "/MernStackRefinePropertiesProjectClient/static/js/787.44e022fc.chunk.js",
+    "index.html": "/MernStackRefinePropertiesProjectClient/index.html",
+    "main.8d4f03be.js.map": "/MernStackRefinePropertiesProjectClient/static/js/main.8d4f03be.js.map",
+    "787.44e022fc.chunk.js.map": "/MernStackRefinePropertiesProjectClient/static/js/787.44e022fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8d4f03be.js"
+  ]
+}
